@@ -1,0 +1,9 @@
+/*/target
+/*/project
+target
+project
+.cache*
+.project
+.classpath
+.setting*
+.DS_Store
