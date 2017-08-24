@@ -1,6 +1,7 @@
-name := "Simple Project"
-resolvers += Resolver.mavenLocal
+name := "faceye-mars-spark"
+
 version := "1.0"
+
 scalaVersion := "2.11.8"
 
 libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.2.0"
